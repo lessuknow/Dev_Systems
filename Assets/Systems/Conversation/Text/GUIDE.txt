@@ -1,0 +1,7 @@
+-W(el)- = W enters left
+-W(er)- = W enters right
+-W(xl)- = W exits left
+-W(xr)- = W exits right
+W:Watashi no = W says Watashi no
+
+W - wolf, R - riding, H - hunter
